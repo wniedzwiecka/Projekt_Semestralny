@@ -1,0 +1,13 @@
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.exe
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.deps.json
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.runtimeconfig.json
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.runtimeconfig.dev.json
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.dll
+E:\Projekt_semestralny\Math_Problems\Math_Problems\bin\Debug\netcoreapp3.1\Math_Problems.pdb
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.csprojAssemblyReference.cache
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.AssemblyInfoInputs.cache
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.AssemblyInfo.cs
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.csproj.CoreCompileInputs.cache
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.dll
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.pdb
+E:\Projekt_semestralny\Math_Problems\Math_Problems\obj\Debug\netcoreapp3.1\Math_Problems.genruntimeconfig.cache
